@@ -4,4 +4,7 @@ The application gets a country name and displays the income level. The worldbank
 
 Singapore -> SG -> High income
 
+![Preview](/image.png)
+
 The CSS in this example is not a main focus.
+Also the code features explainations in the form of comments.
